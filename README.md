@@ -1,6 +1,6 @@
 # Cool Glasses 🕶️
 
-A collection of unique, 3D-printable glasses designed to bring fun, recognizable styles from movies and daily life into the real world. 
+A collection of unique, 3D-printable glasses designed to bring fun, recognizable styles from movies and daily life into the real world.
 
 ---
 
@@ -21,7 +21,25 @@ Each pair of glasses in this collection is designed with a unique style that sta
 
 These are all cool-looking glasses that look great and are fun to wear in daily life!
 
-*(Images will be added here once provided)*
+![Front View of the Cool Glasses Collection](images/overview_front.png)
+
+---
+
+## 📸 Gallery
+
+Here are the different views of the glasses collection:
+
+### Front View
+![Front View of All Glasses](images/overview_front.png)
+
+### Perspective View (Front)
+![Perspective Front View of All Glasses](images/overview_perspective_front.png)
+
+### Perspective View (Back)
+![Perspective Back View of All Glasses](images/overview_perspective_back.png)
+
+### Back View
+![Back View of All Glasses](images/overview_back.png)
 
 ---
 
