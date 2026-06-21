@@ -13,7 +13,7 @@ A collection of unique, 3D-printable glasses designed to bring fun, recognizable
 It provides 3D-printable files (like the [Cool Glasses.step](Cool%20Glasses.step) file) that allow anyone to 3D print ready-to-wear glasses with zero assembly. The styles are inspired by everyday life and movies.
 
 ### Why does it exist?
-This project exists because of a lifelong dream to design and create cool, custom eyewear. While the ultimate ambition was to build AI-powered smart glasses, that project was too complex to start with. So, this collection serves as the perfect foundation—starting with basic, fun, and highly visual glasses designs that can be printed and worn immediately.
+This project exists because of a lifelong dream to design and create cool, custom eyewear. While the ultimate ambition was to build AI-powered smart glasses, that project was too complex to start with. So, this collection serves as the perfect foundation, starting with basic, fun, and highly visual glasses designs that can be printed and worn immediately.
 
 ---
 
