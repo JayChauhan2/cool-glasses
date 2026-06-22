@@ -66,3 +66,10 @@ Using these glasses is simple and requires **no assembly**:
 3.  **Wear them**! 
 
 Since the items are printed as a single piece or designed for print-in-place/simple usage, you can wear them straight off the print bed.
+
+---
+
+## Zine Page
+
+![Zine Page](images/zine_preview.png)
+
