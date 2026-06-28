@@ -30,6 +30,7 @@ cool-glasses/
 │   └── zine_jay_chauhan.pdf  # Full project zine / magazine publication (PDF)
 ├── models/
 │   └── cool_glasses.step     # Complete 3D STEP CAD model for 3D printing
+├── LICENSE                   # MIT License
 └── README.md                 # Project documentation
 ```
 
@@ -97,3 +98,10 @@ I deliberately designed these glasses so that they wouldn't require assembly aft
 [View Full Zine (PDF)](docs/zine_jay_chauhan.pdf)
 
 ![Zine Page](assets/images/zine_preview.png)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
