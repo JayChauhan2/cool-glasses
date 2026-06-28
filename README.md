@@ -25,10 +25,10 @@ BECAUSE IT IS FUN! I really enjoy creating cool aesthetic projects that delight 
 
  there are four main pairs of glasses that together create the collection:
 
-*   🌸 **Flower Glasses**: Inspired by my love for nature
-*   🥸 **Fake Nose Glasses**: You've probably seen these in movies
-*   🍎 **Apple Glasses**: I wanted to create something to do with Steve Jobs, so I created Apple Glasses haha.
-*   🚗 **Car Glasses**: Literally a car on the glasses. 
+*  **Flower Glasses** 🌸: Inspired by my love for nature
+*  **Fake Nose Glasses** 🥸: You've probably seen these in movies
+*  **Apple Glasses** 🍎: I wanted to create something to do with Steve Jobs, so I created Apple Glasses haha.
+*  **Car Glasses** 🚗: Literally a car on the glasses. 
 
 ![Front View of the Cool Glasses Collection](images/overview_front.png)
 
