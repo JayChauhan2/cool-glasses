@@ -12,6 +12,9 @@ This repository has files for 3D printing the glasses (like this file [cool_glas
 ### Why does it exist?
 BECAUSE IT IS FUN! I really enjoy creating cool aesthetic projects that delight people. Especially projects like these which have funny elements in them and may seem pointless on first glance but actually has deeper meaning. This project was originally going to be one of AI glasses, but I realised that that was extremely ambitious for the amount of time I had, so instead I focused on just creating cool stylised glasses. 
 
+### Notes
+Please note that there is no wiring/electronics in this project, it is made to use out of the box!
+
 ---
 
 ## 📁 Project Structure
