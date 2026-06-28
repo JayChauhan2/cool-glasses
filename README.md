@@ -71,8 +71,11 @@ I deliberately designed these glasses so that they wouldn't require assembly aft
 
 ---
 
-## Zine Page
+## 📖 Zine Page
+
+[View Full Zine (PDF)](Zine%20for%20Jay%20Chauhan.pdf)
 
 ![Zine Page](images/zine_preview.png)
+
 
 
