@@ -105,6 +105,7 @@ I deliberately designed these glasses so that they wouldn't require assembly aft
 
 My project is licensed under the [MIT License](LICENSE)
 
+---
 
 HAPPY BUILDING!!!
 
