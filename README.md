@@ -69,7 +69,17 @@ Since the items are printed as a single piece or designed for print-in-place/sim
 
 ---
 
+## 📦 Bill of Materials (BOM)
+
+| Item | Cost | Source |
+| :--- | :--- | :--- |
+| All items are designed by me and only require a 3D printer | $0 | Myself |
+| **Total** | **$0** | **None** |
+
+---
+
 ## Zine Page
 
 ![Zine Page](images/zine_preview.png)
+
 
