@@ -15,6 +15,10 @@ BECAUSE IT IS FUN! I really enjoy creating cool aesthetic projects that delight 
 ### Notes
 Please note that there is no wiring/electronics in this project, it is made to use out of the box!
 
+### Printing instructions
+
+Please use a layer height between 0.16mm to 0.20mm. For infill density please choose 15-20% (and a gyroid/grid pattern). 3 or 4 walls and I recommend PLA material for *vibrant* colors! No supports needed and I suggest Brim bed adhesion. As for tolerance regarding hinge/fitting clearance please choose .2mm-.3mm
+
 ---
 
 ## 📁 Project Structure
