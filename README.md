@@ -101,7 +101,7 @@ I deliberately designed these glasses so that they wouldn't require assembly aft
 
 ---
 
-## 📄 License
+## license
 
 This project is licensed under the [MIT License](LICENSE).
 
